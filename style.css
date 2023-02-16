@@ -64,6 +64,7 @@ ul li::before {
     height: 25px;
     width: 10vh;
     border: none;
+    color: black;
     background-color: rgb(189, 149, 149);
 }
 
